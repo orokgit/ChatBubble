@@ -1,0 +1,8 @@
+<resources>
+
+<!-- Base application theme. -->
+<style name="AppTheme" parent="android:Theme.Light.NoTitleBar">
+    <!-- Customize your theme here. -->
+    <item name="android:textColorPrimaryInverse">@android:color/primary_text_light</item>
+</style>
+</resources>

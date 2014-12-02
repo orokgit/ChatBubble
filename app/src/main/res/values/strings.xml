@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Вместе</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="error">Button</string>
+    <string name="btnConfig">Настройки</string>
+    <string name="btn_message_send">Отправить</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="title_activity_main">Вместе</string>
+    <string name="invite_couple_button">Пригласить</string>
+    <string name="invite_couple_text">Введите email человека чтобы предложить ему быть Вместе</string>
+    <string name="title_activity_invite">InviteActivity</string>
+    <string name="invitation_confirm_button">Принять</string>
+    <string name="invitation_cancel_button">Отменить</string>
+    <string name="invitation_reject_button">Отклонить</string>
+
+    <string name="account_exit_button">Выйти</string>
+    <string name="disconnect_couple_button">Разорвать пару</string>
+
+</resources>
