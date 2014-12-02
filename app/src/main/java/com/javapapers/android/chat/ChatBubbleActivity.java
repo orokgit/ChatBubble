@@ -73,8 +73,7 @@ public class ChatBubbleActivity extends Activity implements  LoaderManager.Loade
         int to[] = { R.id.from_user, R.id.to_user, R.id.content };
         adapter = new ChatSCA(this, R.layout.chat_list_element, null, from, to, 0);
 
-        int testgitcommit = 1;
-        int testgitcommit2 = 2;
+        int fuck = 0;
 
         lvMessages = (ListView) findViewById(R.id.lvMessages);
         lvMessages.setAdapter(adapter);
