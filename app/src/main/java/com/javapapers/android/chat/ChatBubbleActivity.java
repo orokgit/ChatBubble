@@ -65,8 +65,6 @@ public class ChatBubbleActivity extends Activity implements  LoaderManager.Loade
 
         loadermanager=getLoaderManager();
 
-        int fuckoff = 1;
-
         setContentView(R.layout.activity_chat);
 
         aq = new AQuery(this);
