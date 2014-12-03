@@ -46,6 +46,7 @@ public class ChatBubbleActivity extends Activity implements  LoaderManager.Loade
     private Button btnMessageSend;
 
     private int testValue = 1;
+    private int testGIT = 1;
 
     final int CL_MESSAGES_LIST = 100;
     final int CL_FIRST_USER = 1;
